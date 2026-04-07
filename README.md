@@ -40,5 +40,3 @@ This project analyzes credit card customer data to understand spending behavior,
 ## 🚀 Outcome
 
 Built an interactive dashboard to help stakeholders monitor KPIs and identify business opportunities.
-
-Built an interactive dashboard to help stakeholders monitor KPIs and identify business opportunities.
